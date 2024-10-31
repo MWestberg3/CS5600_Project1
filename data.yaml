@@ -1,0 +1,5 @@
+train: ../../data/obj
+val: ../../data/obj
+
+nc: 7
+names: ['CappedHoneyCell', 'CappedWorkerBroodCell', 'EmptyCombCell', 'PollenCell', 'UncappedNectarCell', 'UncappedWorkerLarvaCell', 'BeehiveFrame']
